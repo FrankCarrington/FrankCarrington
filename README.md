@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Frank J Carrington V ! <br/><a 
+href="https://www.linkedin.com/in/frank-carrington-v-2a34469b/?skipRedirect=true>Data Analyst</a>
+</h1>
 
-<!--
-**FrankCarrington/FrankCarrington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>📊Data Analytics Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>💾SQL Project</b>
+  - Food and Beverage Revenue Analysis for Arts Nonprofit
+(COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
+<h2>📚Certifications:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>📜May 2026 Data Analytics Career Accelerator Program</b>
+  - [Demonstrated competency in SQL and Power BI through hands-on business reporting, data analysis, and interactive dashboard development.](https://www.virtualbadge.io/certificate-validator?credential=c13dc47d-a8a9-4d88-8c34-795c1c011c8b)
+
+
+<h2>📱Connect with me:</h2>
+<a href="https://www.linkedin.com/in/frank-carrington-v-2a34469b/?skipRedirect=true" target="_blank">
+  <img align="left" alt="Frank J Carrington V" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+
