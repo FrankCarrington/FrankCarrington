@@ -18,6 +18,10 @@ href=>Power BI</a>
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
   - [Demonstrated competency in SQL and Power BI through hands-on business reporting, data analysis, and interactive dashboard development.](https://www.virtualbadge.io/certificate-validator?credential=c13dc47d-a8a9-4d88-8c34-795c1c011c8b)
 
+
+- <b>📜Intro to SQL Joins Training</b>
+  -  [Covered the foundational SQL join concepts including: INNER JOIN, joining tables, understanding tables relationships, and retrieving data across datasets.](https://www.virtualbadge.io/certificate-validator?credential=c13dc47d-a8a9-4d88-8c34-795c1c011c8b))
+    
 <h2>📱Connect with me:</h2>
 <a href="https://www.linkedin.com/in/frank-carrington-v-2a34469b" target="_blank">
   <img align="left" alt="Frank J Carrington V" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
