@@ -9,8 +9,8 @@ href=>Power BI</a>
 - <b>💾SQL Project</b>
   - [Food and Beverage Revenue Analysis for Arts Nonprofit](https://github.com/FrankCarrington/Food_and_Beverage_Revenue_Analysis_for_Arts_Nonprofit)
  
-  - <b>💾SQL Project</b>
-  - [Executive Box Office Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjgyZTA3YWEtMzAxMC00MjRjLWIzZTItMjQ5NTU4ODdlOTA3IiwidCI6IjczZjIxYzJjLTJkZDctNDFlMC05ZThiLTE5OGRmNjUyMWZkYSIsImMiOjF9)
+ - <b>💾SQL Project</b>
+    - [Executive Box Office Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjgyZTA3YWEtMzAxMC00MjRjLWIzZTItMjQ5NTU4ODdlOTA3IiwidCI6IjczZjIxYzJjLTJkZDctNDFlMC05ZThiLTE5OGRmNjUyMWZkYSIsImMiOjF9)
 
 
 <h2>📚Certifications:</h2>
